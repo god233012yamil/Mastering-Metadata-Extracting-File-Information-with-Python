@@ -79,17 +79,15 @@ Extract metadata from video files including codec, resolution, frame rate, and d
 ### Additional Resources
 For more detailed information and further learning, refer to these resources:
 
-[Introduction](#introduction)
-
-* [Pillow Documentation](#https://pillow.readthedocs.io/en/stable/)
-* [PyPDF2 Documentation](#https://pypdf2.readthedocs.io/en/latest/)
-* [python-docx Documentation](#https://python-docx.readthedocs.io/en/latest/)
-* [openpyxl Documentation](#https://openpyxl.readthedocs.io/en/stable/)
-* [Mutagen Documentation](#https://mutagen.readthedocs.io/en/latest/)
-* [ffmpeg-python Documentation](#https://github.com/kkroening/ffmpeg-python)
+* [Pillow Documentation](https://pillow.readthedocs.io/en/stable/)
+* [PyPDF2 Documentation](https://pypdf2.readthedocs.io/en/latest/)
+* [python-docx Documentation](https://python-docx.readthedocs.io/en/latest/)
+* [openpyxl Documentation](https://openpyxl.readthedocs.io/en/stable/)
+* [Mutagen Documentation](https://mutagen.readthedocs.io/en/latest/)
+* [ffmpeg-python Documentation](https://github.com/kkroening/ffmpeg-python)
 
 ### Contributing
-Contributions are welcome! If you have any improvements or additions to the code, feel free to submit a pull request. Please ensure your code follows the project's style guidelines and includes appropriate tests.
+Contributions are welcome! If you happen to have any improvements or additions to the code, feel free to submit a pull request. Please ensure your code follows the project's style guidelines and includes appropriate tests.
 
 
 
