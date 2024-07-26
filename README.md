@@ -51,6 +51,45 @@ Extract metadata from image files such as camera model, exposure settings, and G
 
 ![image](https://github.com/user-attachments/assets/43464607-b4ea-4bdf-8865-2f842fb3c985)
 
+### PDF Metadata
+Extract metadata from PDF files such as author, title, subject, and creation date.
+
+![image](https://github.com/user-attachments/assets/e40433cc-53b8-4ed4-9ccb-194031b8845b)
+
+### DOCX Metadata
+Extract metadata from DOCX files including core properties, custom properties, and hyperlinks.
+
+![image](https://github.com/user-attachments/assets/9b2ff173-2429-419c-90ae-56f4d05555b4)
+
+### Excel Metadata
+Extract metadata from Excel files including core properties, custom properties, and sheet information.
+
+![image](https://github.com/user-attachments/assets/6ade2671-ef52-48dd-b4ca-7bc30b9b0e12)
+
+### Audio Metadata
+Extract metadata from audio files such as artist, album, genre, and more.
+
+![image](https://github.com/user-attachments/assets/3cde2617-129d-44eb-92ae-a5207c497f9c)
+
+### Video Metadata
+Extract metadata from video files including codec, resolution, frame rate, and duration.
+
+![image](https://github.com/user-attachments/assets/c0be7fef-d186-4875-b3fa-cef15a9328a8)
+
+### Additional Resources
+For more detailed information and further learning, refer to these resources:
+
+[Introduction](#introduction)
+
+* [Pillow Documentation](#https://pillow.readthedocs.io/en/stable/)
+* [PyPDF2 Documentation](#https://pypdf2.readthedocs.io/en/latest/)
+* [python-docx Documentation](#https://python-docx.readthedocs.io/en/latest/)
+* [openpyxl Documentation](#https://openpyxl.readthedocs.io/en/stable/)
+* [Mutagen Documentation](#https://mutagen.readthedocs.io/en/latest/)
+* [ffmpeg-python Documentation](#https://github.com/kkroening/ffmpeg-python)
+
+### Contributing
+Contributions are welcome! If you have any improvements or additions to the code, feel free to submit a pull request. Please ensure your code follows the project's style guidelines and includes appropriate tests.
 
 
 
